@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name ="Automation test">
+<test name="DataDriven">
+<parameter name="userid" value="selenium.webdriver52"/>
+<parameter name="password" value="selenium"/>
+<classes>
+<class name="testNG.DemoTestNG">
+
+</class>
+
+</classes>
+
+</test>
+</suite>
